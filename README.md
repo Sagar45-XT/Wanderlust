@@ -4,7 +4,7 @@ Wanderlust is a full-stack web application for discovering, listing, and reviewi
 
 ---
 ## Live Server link
- - https://wanderlust-im8z.onrender.com 
+ - https://wanderlust-im8z.onrender.com/listings 
 
  must visit for better understanding 
 
